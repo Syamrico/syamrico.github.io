@@ -1,1 +1,1 @@
-# syamrico.github.io
+syamrico.github.io/profil.html
